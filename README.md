@@ -2,6 +2,13 @@ NODEjs conf (vim)
 
 Personnal configuration for VIM
 
+*Autocode complete (use tab for NODE and ctrl-x-o for js)
+*jade syntax highlighting
+*NERDTabsTree
+
+[![myvim](http://i41.tinypic.com/1ph5ps.png)[/myvim]
+
+
 Steps-
 
 Clone to .vim in your home directory 
